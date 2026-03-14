@@ -1,0 +1,8 @@
+# Python standard project exclusions
+
+__pycache__/
+.env
+.venv/
+*.pyc
+.DS_Store
+data/
